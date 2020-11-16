@@ -1,0 +1,4 @@
+C:\codebitsacademy\classworks\LabTask14\Swap\obj\Debug\netcoreapp3.1\Swap.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask14\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask14\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask14\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
